@@ -2,7 +2,7 @@
   "name": "vuetify-admin-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gymcoding.github.io/vuetify-admin-template/",
+  "homepage": "https://github.com/Aiden76005588/vuetify-clone.git",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
